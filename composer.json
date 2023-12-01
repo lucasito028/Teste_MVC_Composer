@@ -1,0 +1,15 @@
+{
+    "description": "App para a prova dia 1/12",
+    "authors": [{
+        "name": "ito",
+        "email": "mxpotatosred123@gmail.com"
+    }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
